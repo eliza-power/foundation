@@ -14,6 +14,11 @@ The Cloud Native Computing Foundation (CNCF) blog is a community-driven platform
 
 Submissions on other relevant topics may be considered if they have clear connections to CNCF projects or the wider cloud native ecosystem.
 
+## CNCF Member Submissions  ##
+* Silver members can submit up to 2 blogs per year, as part of their CNCF membership.
+* Gold and Platinum members can submit up to 4 blogs per year, as part of their CNCF membership. 
+
+
 ## Submission Categories ##
 
 * CNCF members
